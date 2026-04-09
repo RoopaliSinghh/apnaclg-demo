@@ -1,3 +1,3 @@
 # apnaclg-demo
 Learning git <br>
-Author- Shreya
+Author- Shreya Singh
